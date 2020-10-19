@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">a self-taught frontend developer from Poland</h3>
+<h3 align="center">a self-taught front-end web developer from Poland</h3>
 
 - 🔭 I’m currently working on [my neighbourhood pet sitting React app](https://github.com/olgasmoczynska/petsharing)
 
